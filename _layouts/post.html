@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+        <body>
+            {% include navbar.html %}
+            <div class="parallax-window shadow-sm" data-parallax="scroll" {% if page.img %} data-image-src="{{ page.img }}"{% else %}data-image-src="/asset/img/20220708_185040(1).jpg"{% endif %}></div>
+                      <div class="container-fluid shadow-lg">
+                        <!--Grid row-->
+                        <div class="row justify-content-md-cente" style="margin-bottom: 50px;">
+                            <div class="col-md-12 text-center">
+                                <h2>{{page.title}}</h2>
+                              </div>
+                        </div>
+                      </div>
+                        <!--Grid row-->  
+                      <div class="container-fluid">
+                        <div class="row justify-content-md-center">
+                          <div class="col col-lg-3">
+                            {{ content }}
+                          </div>
+                          <div class="col-md-auto">
+                            <img src="{{ page.img }}" class="rounded">
+                          </div>
+                      </div>
+            {% include footer.html %}
+        </body>
+</html>
+

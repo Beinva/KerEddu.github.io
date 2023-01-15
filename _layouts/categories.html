@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+        <body>
+            {% include navbar.html %}
+            <div class="parallax-window shadow-sm" data-parallax="scroll" {% if page.img %} data-image-src="{{ page.img }}"{% else %}data-image-src="/asset/img/20220708_185040(1).jpg"{% endif %}></div>
+                      <div class="container-fluid shadow-lg">
+                        <!--Grid row-->
+                        <div class="row justify-content-md-cente" style="margin-bottom: 50px;">
+                            <div class="col-md-12 text-center">
+                                <h2>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h2>
+                              </div>
+                        </div>
+                      </div>
+                      <div class="container-fluid">
+                        <!--Grid row-->  
+                        <div class="row row-cols-1 row-cols-md-3 g-4">
+                          {% for categories in site.categories %}
+                          <div class="col">
+                            <div class="card shadow-lg">
+                              <div class="embed-responsive embed-responsive-16by9">
+                              {% for post in categories[1] %}
+                              <img src="{{ post.img }}" class="img-fluid card-img-top embed-responsive-item" alt="{{ post.title }}">
+                            </div>
+                              <div class="card-body">
+                                <h5 class="card-title">{{ categories[0] }}</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <a href="{{ post.url }}" class="btn btn-primary">plus d'informations</a>
+                                {% endfor %}
+                              </div>
+                            </div>
+                            
+                          </div>
+                          {% endfor %}
+                        </div>
+                      </div>
+            {% include footer.html %}
+        </body>
+</html>

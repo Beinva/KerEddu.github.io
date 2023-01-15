@@ -21,12 +21,11 @@
 title: Ker Eddu
 email: contact.kereddu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nous sommes une compagnie dénommée Ker Eddu, ayant pour but de présenter et partager une partie de l'Histoire bretonne du point de vue de la classe moyenne du XIème au XIIIème sièc
-  le (nous visons assez large pour se permettre d'évoquer de l'évolution entre la fin de l'ère des invasions vikings et le début de la féodalité qui est significative.).
-
-
-baseurl: "KerEddu.github.io/" # the subpath of your site, e.g. /blog
-url: "KerEddu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
