@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: post
 categories: Archerie
 img: 
 permalink: /ateliers/archerie/
