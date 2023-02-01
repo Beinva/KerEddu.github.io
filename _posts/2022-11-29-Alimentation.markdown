@@ -3,6 +3,7 @@ title: "Alimentation général"
 layout: categories
 categories: Alimentation
 img: /asset/img/PXL_20221028_175121214.jpg
+permalink: /ateliers/alimentation/
 ---
 
 Atelier pédagogiques et intéractifs pour comprendre l'alimentation général et la boulangerie au Moyen Âge.
