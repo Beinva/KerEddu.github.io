@@ -1,7 +1,7 @@
 ---
 title: "La Guerre des paysans"
 categories: Géopolitique
-layout: categories
+layout: default
 img: https://manuscriptminiatures.com/image/9950
 permalink: /ateliers/les_paysanset_et_la_guerre/
 ---
