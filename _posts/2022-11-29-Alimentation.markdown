@@ -3,11 +3,11 @@ title: "Alimentation général"
 layout: categories
 categories: Alimentation
 img: /asset/img/PXL_20221028_175121214.jpg
-excerpt_separator: <!--more-->
 ---
 
 Atelier pédagogiques et intéractifs pour comprendre l'alimentation général et la boulangerie au Moyen Âge.
-<!--more--> 
+
+
 
 # L'alimentation au travers des différents status sociaux au Moyen-Age
 Un atelier pédagogique et interactif permettera de présenter au public l'alimentation au Moyen Age. 

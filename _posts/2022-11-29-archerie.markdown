@@ -2,11 +2,11 @@
 layout: categories
 categories: Archerie
 img: 
-excerpt_separator: <!--more-->
 ---
 Atelier de présentation des armes de jets utilisés au moyen age. 
 Présentation de la fabrication d'arbeletes et d'arc. 
-<!--more-->
+
+
 
 Explication des essences d'armes et des outils nécessaires.
 
