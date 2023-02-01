@@ -15,21 +15,15 @@
                       <div class="container-fluid">
                         <!--Grid row-->  
                         <div class="row row-cols-1 row-cols-md-3 g-4">
-                          {% for categories in site.categories %}
-                          <div class="col">
-                            <div class="card shadow-lg">
-                              <div class="embed-responsive embed-responsive-16by9">
-                              {% for post in categories[1] %}
-                              <img src="{{ post.img }}" class="img-fluid card-img-top embed-responsive-item" alt="{{ post.title }}">
-                            </div>
-                              <div class="card-body">
-                                <h5 class="card-title">{{ categories[0] }}</h5>
-                                <p class="card-text">{{ post.excerpt }}</p>
-                                <a href="{{ post.url }}" class="btn btn-primary">plus d'informations</a>
-                                {% endfor %}
+                          {% for post in site.posts %}
+                          <div class="container-fluid">
+                            <div class="row justify-content-md-center">
+                              <div class="col col-lg-10">
+                                {{ content }}
                               </div>
-                            </div>
-                            
+                              <div class="col-md-auto">
+                                <img src="{{ page.img }}" class="rounded">
+                              </div>
                           </div>
                           {% endfor %}
                         </div>
