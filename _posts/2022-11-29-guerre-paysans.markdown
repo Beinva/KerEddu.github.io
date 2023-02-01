@@ -1,12 +1,13 @@
 ---
 title: "La Guerre des paysans"
 categories: Géopolitique
-layout: default
+layout: categories
 img: https://manuscriptminiatures.com/image/9950
 permalink: /ateliers/les_paysanset_et_la_guerre/
 ---
 
 Présentation sur le rôle des civils dans les conflits et l'organisation militaire au moyen âge. 
+
 
 
 Nous évoquons la guerre au moyen-âge sous un angle différent de celui plus connu des nobles ou des compagnies de mercenaires, pour présenter son impact sur la vie de ceux qui ne sont pas des combattants professionnels. 
