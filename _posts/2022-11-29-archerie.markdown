@@ -8,7 +8,6 @@ Atelier de présentation des armes de jets utilisés au moyen age.
 Présentation de la fabrication d'arbeletes et d'arc. 
 
 
-
 Explication des essences d'armes et des outils nécessaires.
 
 Origines des arcs et arbeletes.
