@@ -1,7 +1,7 @@
 ---
 title: "Alimentation général"
-layout: categories
 categories: Alimentation
+layout: categories
 img: /asset/img/PXL_20221028_175121214.jpg
 permalink: /ateliers/alimentation/
 ---
