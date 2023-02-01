@@ -13,8 +13,8 @@ title: "Nos activités"
                                 </li>
                               </div>
                               <div class="col-md-auto">
-                                <img src="{{ post.img }}" class="rounded">
+                                <img src="{{ page.img }}" class="rounded">
                               </div>
                           </div>
                         </div>
-{% endfor %}
+                          {% endfor %}
