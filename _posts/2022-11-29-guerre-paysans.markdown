@@ -5,7 +5,7 @@ layout: post
 img: https://manuscriptminiatures.com/image/9950
 permalink: /ateliers/les_paysanset_et_la_guerre/
 ---
-# La Guerre des paysans
+## La Guerre des paysans
 Présentation sur le rôle des civils dans les conflits et l'organisation militaire au moyen âge. 
 
 
