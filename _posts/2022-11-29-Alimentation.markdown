@@ -5,6 +5,9 @@ layout: post
 img: /asset/img/PXL_20221028_175121214.jpg
 permalink: /ateliers/alimentation/
 ---
+<div class="col-md-auto">
+    <img src="{{ post.img }}" class="rounded float-start" alt="..." width="300" height="400">
+</div>
 
 ## L'alimentation 
 Un atelier pédagogique et interactif permettera de présenter au public l'alimentation au Moyen Age. 
