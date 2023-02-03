@@ -4,6 +4,7 @@ categories: Archerie
 img: /asset/img/PXL_20210718_125427885._exported_1868_1626636098988.jpg
 permalink: /ateliers/archerie/
 ---
+<div class="col col-lg-5">
 ## Les armes de trait au moyen age
 
 Présentation des origines des armes de trait dans l'histoire en passant par les differentes civilisations.
@@ -12,6 +13,7 @@ Nous présenterons ensuite dans quels cas ces armes furent utilisées au moyen a
 
 Les méthodes de fabrications y seront détaillés en particulier le essences d'arbres et les outils la confection des arcs et des arbelètes.
 Enfin, des démonstrations de tir à l'arc et à l'arbalète pourront être faite sur cible devant le public.
+</div>
 
 <div class="col-md-auto">
     <img src="/asset/img/PXL_20210718_125427885._exported_1868_1626636098988.jpg" class="rounded float-end" alt="..." width="300" height="400">
