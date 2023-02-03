@@ -14,5 +14,5 @@ Les méthodes de fabrications y seront détaillés en particulier le essences d'
 Enfin, des démonstrations de tir à l'arc et à l'arbalète pourront être faite sur cible devant le public.
 
 <div class="col-md-auto">
-    <img src="/asset/img/PXL_20221028_175121214.jpg" class="rounded float-end" alt="..." width="300" height="400">
+    <img src="/asset/img/PXL_20210718_125427885._exported_1868_1626636098988.jpg" class="rounded float-end" alt="..." width="300" height="400">
 </div>
