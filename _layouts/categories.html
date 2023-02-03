@@ -9,43 +9,24 @@
                         <div class="row justify-content-md-cente" style="margin-bottom: 50px;">
                             <div class="col-md-12 text-center">
                                 <h2>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h2>
-                            </div>
+                              </div>
                         </div>
                       </div>
                         <!--Grid row-->  
-                        
-                      <div class="container-fluid">
-                        {% for post in site.posts %}
-                        <div class="card mb-3" style="max-width: 540px;">
-                          <div class="row g-0">
-                            <div class="col-md-4">
-                              <img src="{{ post.img }}" class="img-fluid rounded-start" alt="...">
-                            </div>
-                            <div class="col-md-8">
-                              <div class="card-body">
-                                <h5 class="card-title">{{ post.title }}</h5>
-                                <p class="card-text">{{ post.content }}</p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <br>
-                        {% endfor %}
-                      </div>
-                        <!--
-                        
-                        
+                        <div class="container-fluid">
+                          {% for post in site.posts %}
                           <div class="row justify-content-md-center">
                               <div class="col col-lg-5">
-                              
+                                {{ post.content}}
                               </div>
                               <div class="col-md-auto">
-                                <img src="" class="rounded float-start" alt="..." width="300" height="400">
+                                <img src="{{ post.img }}" class="rounded float-start" alt="..." width="300" height="400">
                             </div>
                             </div>
                         </div>
-                      </div> -->
-
+                      </div>
+                      <br>
+                        {% endfor %}
             {% include footer.html %}
         </body>
 </html>
