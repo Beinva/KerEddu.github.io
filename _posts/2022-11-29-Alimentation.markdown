@@ -6,7 +6,7 @@ img: /asset/img/PXL_20221028_175121214.jpg
 permalink: /ateliers/alimentation/
 ---
 <div class="col-md-auto">
-    <img src="{{ post.img }}" class="rounded float-start" alt="..." width="300" height="400">
+    <img src="/asset/img/PXL_20221028_175121214.jpg" class="rounded float-start" alt="..." width="300" height="400">
 </div>
 
 ## L'alimentation 

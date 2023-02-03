@@ -12,3 +12,7 @@ Nous présenterons ensuite dans quels cas ces armes furent utilisées au moyen a
 
 Les méthodes de fabrications y seront détaillés en particulier le essences d'arbres et les outils la confection des arcs et des arbelètes.
 Enfin, des démonstrations de tir à l'arc et à l'arbalète pourront être faite sur cible devant le public.
+
+<div class="col-md-auto">
+    <img src="/asset/img/PXL_20221028_175121214.jpg" class="rounded float-end" alt="..." width="300" height="400">
+</div>
