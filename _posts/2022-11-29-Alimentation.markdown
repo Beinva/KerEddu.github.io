@@ -5,12 +5,11 @@ layout: post
 img: /asset/img/PXL_20221028_175121214.jpg
 permalink: /ateliers/alimentation/
 ---
-## L'alimentation 
-Un atelier pédagogique et interactif permettera de présenter au public l'alimentation au Moyen Age. 
-Nous aborderons au travers d'un jeu de carte les différentes règle alimentaire en vigueur (religieuse, chasse ...) qui pouvais être mis en place en fonction du status social de votre personnage. 
+## L'alimentation au Moyen Âge
 
-Quels étaient les différents légumes, céréal ou viande qui pouvais être consommé durant cette période ? 
+Une présentation pédagogique et interactive sur l'alimentation générale des personnes au Moyen Âge.
 
-## La boulangerie
+Au travers d'un jeu interactif, nous verrons les différences entre notre alimentation aujourd'hui et celle d'antan. Les produits que l'on pouvait trouver à l'époque et les différences d'alimentation en fonction de notre statut social.
 
+Nous parlerons également de la Boulangerie et l'importance du pain au Moyen Âge, des fours à pain et de la confection de pain directement sur place.
 
