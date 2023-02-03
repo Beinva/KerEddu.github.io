@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: Archerie
-img: 
+img: /asset/img/PXL_20210718_125427885._exported_1868_1626636098988.jpg
 permalink: /ateliers/archerie/
 ---
 ## Les armes de trait au moyen age
